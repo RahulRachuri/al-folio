@@ -8,7 +8,7 @@ nav: true
 
 <h3 class="mt-4">Aarhus University</h3>
 
-<div class="card mt-3">
+<div class="card mt-3" style="background-color:inherit">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
@@ -26,7 +26,7 @@ nav: true
   </div>
 </div>
 
-<div class="card mt-3">
+<div class="card mt-3" style="background-color:inherit">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
@@ -44,7 +44,7 @@ nav: true
   </div>
 </div>
 
-<div class="card mt-3">
+<div class="card mt-3" style="background-color:inherit">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
@@ -64,7 +64,7 @@ nav: true
 
 <h3 class="mt-4">IIIT Bangalore</h3>
 
-<div class="card mt-3">
+<div class="card mt-3" style="background-color:inherit">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
@@ -82,7 +82,7 @@ nav: true
   </div>
 </div>
 
-<div class="card mt-3">
+<div class="card mt-3" style="background-color:inherit">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
